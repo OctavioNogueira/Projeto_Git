@@ -20,3 +20,9 @@
 >Destaque de um  blockquote
 >
 > Destacadas
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
