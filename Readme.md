@@ -3,6 +3,11 @@
 
 # _Apredendo Git e GitHub_
 
+**Ultimas updates:**
+- [x] Site reponsivo
+- [ ] Login com Instagram
+- [x] Página sobre a empresa
+
 ## Módulos
 * Começando com Git
 * Apredendendo sobre branches
