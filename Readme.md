@@ -1,4 +1,4 @@
-# Apredendo Git e GitHub
+# _Apredendo Git e GitHub_
 
 ## Módulos
-Entendendo git, repositórios e branches
+_Entendendo **git**, **repositórios** e **branches**_
