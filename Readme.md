@@ -4,7 +4,10 @@
 # _Apredendo Git e GitHub_
 
 ## Módulos
-_Entendendo **git**, **repositórios** e **branches**_
+* Começando com Git
+* Apredendendo sobre branches
+* Repositórios
+* GitHub
 
 
 ### Rede Social 
