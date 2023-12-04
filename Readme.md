@@ -26,7 +26,7 @@
 >
 > Destacadas
 
-**Comando para rodar o projeto**
+### Comando para rodar o projeto
 
 ```
 npm start
