@@ -2,16 +2,10 @@
 
 [Bem vindo](#apredendo-git-e-github) |
 [Módulos](#módulos) |
-[Rede social](#rede-social) |
-[Comando para rodar o projeto](#comando-para-rodar-o-projeto)
+
 
 
 # _Apredendo Git e GitHub_
-
-**Ultimas updates:**
-- [x] Site reponsivo
-- [ ] Login com Instagram
-- [x] Página sobre a empresa
 
 ## Módulos
 * Começando com Git
@@ -19,27 +13,3 @@
 * Repositórios
 * GitHub
 * MarkDown
-
-
-### Rede Social 
-[Instagram](https://instagram.com/o.nogueira.__)
-
-[YouTube](https://youtube.com/c/sujeitoprogramador)
-
-
->Destaque de um  blockquote
->
-> Destacadas
-
-### Comando para rodar o projeto
-
-```
-npm start
-```
-
-Propriedades | Descrição 
------------- | ---------
-name | Informar o nome do usuario 
-size | Para definir o tamanho do campo 
-background | Cor de fundo da area em HEX
-onPress | Função chamada quando clicar no botão 
